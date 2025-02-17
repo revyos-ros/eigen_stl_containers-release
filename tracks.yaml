@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/eigen_stl_containers-release.git
 tracks:
   crystal:
     actions:
