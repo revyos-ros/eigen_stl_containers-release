@@ -1,3 +1,26 @@
+## eigen_stl_containers (humble) - 1.1.0-1
+
+The packages in the `eigen_stl_containers` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble eigen_stl_containers --override-release-repository-push-url git@github.com:revyos-ros/eigen_stl_containers-release.git` on `Mon, 17 Feb 2025 01:29:39 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers.git
+- release repository: https://github.com/revyos-ros/eigen_stl_containers-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.0.0-4`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## eigen_stl_containers (foxy) - 1.0.0-1
 
 The packages in the `eigen_stl_containers` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy eigen_stl_containers` on `Mon, 01 Jun 2020 15:45:05 -0000`
